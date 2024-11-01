@@ -1,0 +1,12 @@
+:root {
+    --example-blue: #4285F4;
+    --example-red: #EA4335;
+    --example-yellow: #FBBC05;
+    --example-green: #34A853;
+}
+
+/* Example usage */
+.example {
+    background-color: var(--example-blue);
+    color: var(--example-red);
+}
